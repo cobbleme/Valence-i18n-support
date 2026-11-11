@@ -52,7 +52,7 @@
 * **Minecraft**: `1.21.1+`
 * **Fabric Loader**: `>= 0.15.0`
 * **前置依赖**: [Fabric API](https://modrinth.com/mod/fabric-api)
-* **主模组**: [Valence](https://modrinth.com/mod/valence) (建议 1.9.9+)
+* **主模组**: Valence (建议 1.9.9+)
 * *(推荐搭配)*: [Mod Menu](https://modrinth.com/mod/modmenu)
 
 ### 安装步骤
