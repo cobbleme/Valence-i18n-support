@@ -52,7 +52,7 @@
 * **Minecraft**: `1.21.1+`
 * **Fabric Loader**: `>= 0.15.0`
 * **Dependencies**: [Fabric API](https://modrinth.com/mod/fabric-api)
-* **Required Mod**: [Valence](https://modrinth.com/mod/valence) (1.9.9+ recommended)
+* **Required Mod**: Valence (1.9.9+ recommended)
 * *(Optional)*: [Mod Menu](https://modrinth.com/mod/modmenu)
 
 ### Quick Start
