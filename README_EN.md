@@ -1,6 +1,6 @@
 # Valence i18n & Font Companion (valence-i18n)
 
-[繁體中文](README.md) | **English**
+[中文](README.md) | **English**
 
 [![Minecraft](https://img.shields.io/badge/Minecraft-1.21.1%2B-brightgreen.svg)](https://www.minecraft.net/)
 [![Fabric Loader](https://img.shields.io/badge/Fabric-0.15.0%2B-blue.svg)](https://fabricmc.net/)
