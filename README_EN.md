@@ -15,8 +15,8 @@
 
 ### 1. 🌐 100% Full CJK Localization
 * **Dual CJK Built-in**: Full support for both **Traditional Chinese (`zh_tw`)** and **Simplified Chinese (`zh_cn`)**.
-* **Zero Missing Translations**: Covers all 903+ translation keys across both core namespaces (`valence` and `valence_cord`):
-  * **Valence Core**: 25+ dynamic skies with rich descriptions, style customization, totem size scaling, FPS performance tuner, full changelogs (v1.0.0 through v1.9.9), keybindings, and menus.
+* **Zero Missing Translations**: Covers all **1052 translation keys** across both core namespaces (`valence` and `valence_cord`), fully adapted for **Valence v2.0.0**:
+  * **Valence 2.0 Core**: Brand new PvP Sound Styles system (including Totem, Crystal, Hit, Pearl, and 100+ sound variants with ▶ preview), Cape Redeem Code panel, 52 new capes sorted into categories, dual-tab Settings, and changelogs up to v2.0.0.
   * **Lyrics Cord Engine**: Step-by-step Spotify desktop connection tutorials and troubleshooting, Island top bar, 27 cosmetic hats and accessories, particle trails, and death effects.
 
 ### 2. 📂 External Custom Language Loader
